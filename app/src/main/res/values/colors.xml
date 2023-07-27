@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-</resources>
+
+    <resources>
+        <!-- Purple Colors -->
+        <color name="purple_200">#FFBB86FC</color> <!-- Light shade of purple (primary) -->
+        <color name="purple_500">#FF6200EE</color> <!-- Medium shade of purple (primary) -->
+        <color name="purple_700">#FF3700B3</color> <!-- Dark shade of purple (primary) -->
+
+        <!-- Teal Colors -->
+        <color name="teal_200">#FF03DAC5</color> <!-- Light shade of teal (secondary) -->
+        <color name="teal_700">#FF018786</color> <!-- Dark shade of teal (secondary) -->
+
+        <!-- Black and White Colors -->
+        <color name="black">#FF000000</color> <!-- Pure black (background/text) -->
+        <color name="white">#FFFFFFFF</color> <!-- Pure white (background/text) -->
+
+        <!-- Light Color Theme -->
+        <color name="primary_light">#FF00796B</color> <!-- Teal shade for the light theme (primary) -->
+        <color name="secondary_light">#FFFF9800</color> <!-- Orange shade for the light theme (secondary) -->
+        <color name="background_light">#FFF5F5F5</color> <!-- Off-white background for the light theme -->
+        <color name="text_light">#FF333333</color> <!-- Dark gray text for the light theme -->
+        <color name="button_light">#FF4CAF50</color> <!-- Green button color for the light theme -->
+        <color name="accent_light">#FFE91E63</color> <!-- Pink accent color for the light theme -->
+
+        <!-- Dark Color Theme -->
+        <color name="primary_dark">#FF5D4037</color> <!-- Brown shade for the dark theme (primary) -->
+        <color name="secondary_dark">#FFFFC107</color> <!-- Amber shade for the dark theme (secondary) -->
+        <color name="background_dark">#FF333333</color> <!-- Black background for the dark theme -->
+        <color name="text_dark">#FFF5F5F5</color> <!-- Light gray text for the dark theme -->
+        <color name="button_dark">#FFFF5722</color> <!-- Deep orange button color for the dark theme -->
+        <color name="accent_dark">#FF9C27B0</color> <!-- Purple accent color for the dark theme -->
+    </resources>
